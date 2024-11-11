@@ -17,3 +17,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = c:\prodzekty\csharp\ContosoPizza\TestAppDJ
 build_property._RazorSourceGeneratorDebug = 
+
+[c:/prodzekty/csharp/ContosoPizza/TestAppDJ/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
