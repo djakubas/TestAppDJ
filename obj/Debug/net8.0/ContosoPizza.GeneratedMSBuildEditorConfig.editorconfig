@@ -18,6 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\prodzekty\csharp\ContosoPizza\TestAppDJ
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/prodzekty/csharp/ContosoPizza/TestAppDJ/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[c:/prodzekty/csharp/ContosoPizza/TestAppDJ/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
